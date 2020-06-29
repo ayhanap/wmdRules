@@ -32,7 +32,8 @@ The guild has many ranks. Their purpose and associated privileges and duties are
     
 
 -   Players who no longer meet the requirements and expectations of their current rank will be demoted.
--   Raiders who no longer meet the minimum gear requirements or the attendance of the rank will be demoted to Social.
+- Raiders who no longer meet the minimum gear, performance or raiding activity requirements will be demoted to Social.
+-   Raiders who no longer meet the minimum gear, performance or raiding activity requirements will be demoted to Social.
 
 -   Raiders who no longer meet the minimum gear, performance, or raiding activity requirements of the rank will be demoted to Backup Raider.
 
@@ -40,5 +41,5 @@ The guild has many ranks. Their purpose and associated privileges and duties are
     
 Raiders wishing to change their main raiding toon should also follow the process above by first preparing their alt as a Backup Raider and applying for full Raider status when appropriate.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMjMyMjAwNDksMTI1NDM4OTYyMV19
+eyJoaXN0b3J5IjpbNTY2MTA0OTg1LDEyNTQzODk2MjFdfQ==
 -->
