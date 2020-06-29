@@ -14,8 +14,8 @@ The guild has many ranks. Their purpose and associated privileges and duties are
  #### PROMOTION
     
 
--   Players of rank 'Social' (or an 'Alt' of a current 'Radier') and 'Backup Raider' can apply for promotion to the ranks of 'Backup Raider' and 'Raider' respectively if they are wish to participate in regular raiding activities.
--   **Promotion from Social or Alt to Backup Raider**
+-   Players of rank 'Social' can apply for promotion to the ranks of 'Raider' and 'Core Raider' respectively if they are wish to participate in regular raiding activities.
+-   **Promotion from Social to Backup Raider**
     1.  For promotion to 'Backup Raider', a player should:
         -   meet and maintain the current gear requirements for Raiders as listed at the top of the  [Guild Recruitment](https://www.wow-easy.net/index.php?page=recruit)  page
         -   pass a basic skill check as demonstrated by a log of an appropriate LFR raid, Mythic dungeon, or similar.
@@ -43,5 +43,5 @@ The guild has many ranks. Their purpose and associated privileges and duties are
     
 Raiders wishing to change their main raiding toon should also follow the process above by first preparing their alt as a Backup Raider and applying for full Raider status when appropriate.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDkyNDcxNDc0LDEyNTQzODk2MjFdfQ==
+eyJoaXN0b3J5IjpbMjE0NjIwNTM5MSwxMjU0Mzg5NjIxXX0=
 -->
