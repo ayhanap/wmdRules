@@ -15,10 +15,11 @@ The guild has many ranks. Their purpose and associated privileges and duties are
     
 
 -   Players of rank 'Social' can apply for promotion to the ranks of 'Raider' and 'Core Raider' respectively if they are wish to participate in regular raiding activities.
--   **Promotion from Social to Backup Raider**
+-   **Promotion from Social to Raider**
     1.  For promotion to 'Backup Raider', a player should:
         -   meet and maintain the current gear requirements for Raiders. That is the best available non-raid loot available at the time.
         -   pass a basic skill check as demonstrated by a log on warcraftlogs.
+        -  if the player does not have recent raiding experience, then a test run will be arranged.
         -   apply for the promotion contacting your Class Leader.
 -   **Promotion from Backup Raider to Raider**
     1.  For promotion to 'Raider' and if a Raider spot is available in the appropriate role, then a Backup Raider should:
@@ -43,5 +44,5 @@ The guild has many ranks. Their purpose and associated privileges and duties are
     
 Raiders wishing to change their main raiding toon should also follow the process above by first preparing their alt as a Backup Raider and applying for full Raider status when appropriate.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYyODY1NTA4MiwxMjU0Mzg5NjIxXX0=
+eyJoaXN0b3J5IjpbNDMzNjEwNjczLDEyNTQzODk2MjFdfQ==
 -->
