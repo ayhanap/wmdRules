@@ -12,7 +12,7 @@ Breaches of the Code of Conduct will result in disciplinary action from the Guil
 - **Drama will not be tolerated.** Disagreements or other behaviours which become disruptive are unacceptable.
 - **Guild rules will inevitably change over time.** Members are expected to accept and adhere to new rules regardless of their personal opinions. Be mindful that the Guild Leadership tries to make decisions that are best for the guild as a whole and for the long term, which may not necessarily correspond to the best decision for you personally right now.
 - **Constructive feedback and discussion on all aspects of the guild and raiding is always welcome.** Complaints should not be made unless accompanied by alternative proposals. All feedback and discussion should respect this Code of Conduct.
-- **Read the forums.** The forums are the main way of communicating important guild information (as well as a lot of trivial guild information). Most importantly, changes to raid strategies and guild announcements are made there. It is your responsibility to check the forums regularly and stay apprised of any important information.
+- **Read the forums.** Relevant Discord channels are the main way of communicating important guild information (as well as a lot of trivial guild information). Most importantly, changes to raid strategies and guild announcements are made there. It is your responsibility to check Discord regularly and stay apprised of any important information.
 - **Do not engage in any activity that will bring the guild's name into disrepute.** Behaviours such as spamming, trolling, ninjaing, begging, flaming, or other anti-social actions are not acceptable.
 - **Do not use excessive, gratuitous or explicit language.** Justifiable mature language and conversation is to be accepted in a guild of adults. Politics, religion, and similarly divisive topics are embargoed.
 - **Abusive, threatening, discriminatory, or prejudicial behaviour of any form is expressly forbidden and will be met with immediate expulsion from the guild.** Intentionally vexatious, obstructive, malicious, hostile, aggressive, or insulting behaviour is not acceptable.
@@ -30,5 +30,5 @@ Additionally, all Guild members who are involved in Raiding are expected to adhe
 - **Positive criticism is a good thing.** Members should feel free to give advice and suggestions to other players to improve their play. Equally, Members should view any positive criticism as an opportunity to improve.
 - **The guild's raids and its progress come first.** Raiders are expected to attend at least half of all guild raids per week. Raiders actively engaged in non-raiding activities (or raiding elsewhere) *at the expense of guild raids* risk losing their rank.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ2Mjk3ODgwOV19
+eyJoaXN0b3J5IjpbLTExNTgxMTI1NThdfQ==
 -->
