@@ -25,9 +25,8 @@ The guild has many ranks. Their purpose and associated privileges and duties are
 -   **Promotion from Raider to Core Raider**
     1.  For promotion to 'Core Raider' a Raider should:
         -  sustain a resonable attendance to the raids
-        -  come prepared to raids,perform well
-        -   apply for the promotion, the player should complete the Raider Promotion application form to show evidence of the above and post it in the Internal Promotions forum.
-    2.  If the player does not have recent raiding experience, then a test run will be arranged. If successful or not needed, then the player will be promoted to Trialist rank.
+        -  come prepared to raids and perform well
+    2.  Management will evaluate Core Raider ranks every 3 weeIf the player does not have recent raiding experience, then a test run will be arranged. If successful or not needed, then the player will be promoted to Trialist rank.
     3.  There will then be the usual 2-week trial and evaluation period following the standard rules and procedure. See  [Recruitment and Trial](https://www.wow-easy.net/index.php?page=rules&section=recruit)  for details.
     4.  The Backup Raider does not have to meet the minimum raid Activity (50%) before making the application, but must demonstrate it throughout the Trial period.
     5.  If the player is new to raiding, new to raiding with us, or new to the role, then an appropriate class or role 'big brother' or mentor will be appointed.
@@ -46,5 +45,5 @@ The guild has many ranks. Their purpose and associated privileges and duties are
     
 Raiders wishing to change their main raiding toon should also follow the process above by first preparing their alt as a Backup Raider and applying for full Raider status when appropriate.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMyOTMyOTYyNCwxMjU0Mzg5NjIxXX0=
+eyJoaXN0b3J5IjpbMTA3NjY3MTQzNCwxMjU0Mzg5NjIxXX0=
 -->
