@@ -5,7 +5,8 @@
 The guild has many ranks. Their purpose and associated privileges and duties are described below.
 
 - **Guild Master and Officer**  - Guild leadership. Specific duties include (but are not limited to) management of guild membership, recruitment, relations with other guilds, revision of guild rules, guild infrastructure (forums, website, discord), guild bank. Eligible to attend all raids if raid-active.
-- **Core Leader**  - Active raiding members that proved their skills and devotion to guild. Main toons only. Eligible to attend all raids..
+- **Core Raider**  - Active raiding members that proved their skills and devotion to guild. Main toons only. Eligible to attend all raids..
+- **Class Leader**  - Defines Same rules applies as Core Raider
 - **Raider**  - Active raiding members. Main toons only. Eligible to sign and attend all raids, but full Raiders take precedence for raid spots.
 - **"Timeout"**  - In-game rank only reserved for Raiders who do something particularly stupid during a raid. All other guild members are invited to point and laugh.
 - **Social**  - Non-raiding members and all others members that doesn't have pre-raid gear. Eligible to sign up to all raids if appropriately geared, but Raiders take precedence for raid spots.
@@ -44,5 +45,5 @@ The guild has many ranks. Their purpose and associated privileges and duties are
     
 Raiders wishing to change their main raiding toon should also follow the process above by first preparing their alt as a Backup Raider and applying for full Raider status when appropriate.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDMzNjEwNjczLDEyNTQzODk2MjFdfQ==
+eyJoaXN0b3J5IjpbMTI1NDMxMzI3MSwxMjU0Mzg5NjIxXX0=
 -->
