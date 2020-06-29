@@ -26,18 +26,13 @@ The guild has many ranks. Their purpose and associated privileges and duties are
     1.  For promotion to 'Core Raider' a Raider should:
         -  sustain a resonable attendance to the raids
         -  come prepared to raids and perform well
-    2.  Management will evaluate Core Raider ranks every 3 weeIf the player does not have recent raiding experience, then a test run will be arranged. If successful or not needed, then the player will be promoted to Trialist rank.
-    3.  There will then be the usual 2-week trial and evaluation period following the standard rules and procedure. See  [Recruitment and Trial](https://www.wow-easy.net/index.php?page=rules&section=recruit)  for details.
-    4.  The Backup Raider does not have to meet the minimum raid Activity (50%) before making the application, but must demonstrate it throughout the Trial period.
-    5.  If the player is new to raiding, new to raiding with us, or new to the role, then an appropriate class or role 'big brother' or mentor will be appointed.
--   On success, the player will be promoted to the desired rank. Otherwise, the player remains at their original rank and can re-apply at a later time.
--   Promotion to higher ranks is at the discretion of the Guild Master only.
+    2.  Management will evaluate Core Raider ranks every 3 weeks. If there are Raiders that meet the criteria they will be promoted.
 
-5.  #### DEMOTION
+#### DEMOTION
     
 
 -   Players who no longer meet the requirements and expectations of their current rank will be demoted.
--   Backup Raiders who no longer meet the minimum gear requirements of the rank will be demoted to Social.
+-   Raiders who no longer meet the minimum gear requirements or the attendance of the rank will be demoted to Social.
 
 -   Raiders who no longer meet the minimum gear, performance, or raiding activity requirements of the rank will be demoted to Backup Raider.
 
@@ -45,5 +40,5 @@ The guild has many ranks. Their purpose and associated privileges and duties are
     
 Raiders wishing to change their main raiding toon should also follow the process above by first preparing their alt as a Backup Raider and applying for full Raider status when appropriate.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA3NjY3MTQzNCwxMjU0Mzg5NjIxXX0=
+eyJoaXN0b3J5IjpbLTIwMjMyMjAwNDksMTI1NDM4OTYyMV19
 -->
