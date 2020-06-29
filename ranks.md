@@ -17,13 +17,13 @@ The guild has many ranks. Their purpose and associated privileges and duties are
 
 -   Players of rank 'Social' can apply for promotion to the ranks of 'Raider' and 'Core Raider' respectively if they are wish to participate in regular raiding activities.
 -   **Promotion from Social to Raider**
-    1.  For promotion to 'Backup Raider', a player should:
+    1.  For promotion to 'Raider' and if a Raider spot is available in the appropriate role, then a Social should:
         -   meet and maintain the current gear requirements for Raiders. That is the best available non-raid loot available at the time.
         -   pass a basic skill check as demonstrated by a log on warcraftlogs.
         -  if the player does not have recent raiding experience, then a test run will be arranged.
         -   apply for the promotion contacting your Class Leader.
 -   **Promotion from Raider to Core Raider**
-    1.  For promotion to 'Raider' and if a Raider spot is available in the appropriate role, then a Backup Raider should:
+    1.  For promotion to 'Core Raider' and if a Raider spot is available in the appropriate role, then a Backup Raider should:
         -   meet and maintain the current gear requirements for Raiders as listed at the top of the  [Guild Recruitment](https://www.wow-easy.net/index.php?page=recruit)  page
         -   apply for the promotion, the player should complete the Raider Promotion application form to show evidence of the above and post it in the Internal Promotions forum.
     2.  If the player does not have recent raiding experience, then a test run will be arranged. If successful or not needed, then the player will be promoted to Trialist rank.
@@ -45,5 +45,5 @@ The guild has many ranks. Their purpose and associated privileges and duties are
     
 Raiders wishing to change their main raiding toon should also follow the process above by first preparing their alt as a Backup Raider and applying for full Raider status when appropriate.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMDc3NTM1MDgsMTI1NDM4OTYyMV19
+eyJoaXN0b3J5IjpbMTM3ODQ1MTM2MCwxMjU0Mzg5NjIxXX0=
 -->
