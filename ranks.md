@@ -41,7 +41,7 @@ The guild has many ranks. Their purpose and associated privileges and duties are
  - From a heavily occupied class to required classes. Any other request will not be evaluated. 
  - Characters that previously earned key BIS items are specially out of this context.
  - The only main reason to change mains is to better sustain guild setup. Any personal reasons will not be evaluated.
- - If ma
+ - If management defines the need and decides if the criterias are met that member requested to change main.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MzUzNjYyNTcsMTI1NDM4OTYyMV19
+eyJoaXN0b3J5IjpbMTM1ODA4MjgzNCwxMjU0Mzg5NjIxXX0=
 -->
