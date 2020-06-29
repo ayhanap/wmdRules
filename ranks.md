@@ -40,7 +40,8 @@ The guild has many ranks. Their purpose and associated privileges and duties are
  - Changing mains are only allowed if the management requests. 
  - From a heavily occupied class to required classes. Any other request will not be evaluated. 
  - Characters that previously earned key BIS items are specially out of this context.
- - The only main reason is
+ - The only main reason to change mains is to better sustain guild setup. Any personal reasons will not be evaluated.
+ - If ma
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1ODQzMDgzMjgsMTI1NDM4OTYyMV19
+eyJoaXN0b3J5IjpbLTE4MzUzNjYyNTcsMTI1NDM4OTYyMV19
 -->
