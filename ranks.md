@@ -6,11 +6,11 @@ The guild has many ranks. Their purpose and associated privileges and duties are
 
 1.  **Guild Master and Officer**  - Guild leadership. Specific duties include (but are not limited to) management of guild membership, recruitment, relations with other guilds, revision of guild rules, guild infrastructure (forums, website, discord), guild bank. Eligible to attend all raids if raid-active.
 2.  **Core Leader**  - Active raiding members that proved their skills and devotion to guild. Main toons only. Eligible to attend all raids..
-3.  **Raider**  - Active raiding members. Main toons only. Eligible to attend all raids.
+3.  **Raider**  - Active raiding members. Main toons only. Eligible to sign and attend all raids, but full Raiders take precedence for raid spots.
 4.  **"Timeout"**  - In-game rank only reserved for Raiders who do something particularly stupid during a raid. All other guild members are invited to point and laugh.
 5.  **Trialist**  - Prospective Raider under evaluation. Eligible to attend all raids.
 6.  **Backup Raider**  - Well-geared and experienced alts, gearing-up raiders, raiders who cannot commit to regular raiding schedule. Eligible to sign up to all raids, but full Raiders take precedence for raid spots.
-7.  **Social**  - Non-raiding members. Eligible to sign up to all raids if appropriately geared, but full Raiders take precedence for raid spots.
+7.  **Social**  - Non-raiding members and all others Eligible to sign up to all raids if appropriately geared, but full Raiders take precedence for raid spots.
 8.  **Alt**  - All other alt characters. Typically too insufficiently geared or experienced to raid.
 
 3.  #### PROMOTION
@@ -45,5 +45,5 @@ The guild has many ranks. Their purpose and associated privileges and duties are
     
 Raiders wishing to change their main raiding toon should also follow the process above by first preparing their alt as a Backup Raider and applying for full Raider status when appropriate.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI1NDM4OTYyMV19
+eyJoaXN0b3J5IjpbMTA2MDQ0OTY1OSwxMjU0Mzg5NjIxXX0=
 -->
