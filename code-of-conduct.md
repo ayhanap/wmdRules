@@ -28,7 +28,7 @@ Additionally, all Guild members who are involved in Raiding are expected to adhe
 - **The Raid Leader is the boss.** Follow their directions, and be quiet when they are speaking on Discord. Do not monopolise Discord or inundate the RL with whispers about your brilliant strategy ideas during the raid. If discussion is invited, then keep it brief and to the point. Preferably, raid strategy discussion should be taken to discord where it can be read offline, outside of the heat of battle, and alongside the other 39 brilliant strategy ideas which would have bombarded the Raid Leader senseless.
 - **Be punctual.** Be online before raid invites are issued, and be at the raid entrance and ready to raid before the raid starts. If you can't be online on time, make sure you leave a message saying so. Do not keep 39 people waiting.
 - **Positive criticism is a good thing.** Members should feel free to give advice and suggestions to other players to improve their play. Equally, Members should view any positive criticism as an opportunity to improve.
-- **The guild's raids and its progress come first.** Raiders are expected to attend at least half of all guild raids per week. Raiders actively engaged in non-raiding activities (or raiding elsewhere) *at the expense of guild raids* risk losing their rank.
+- **The guild's raids and its progress come first.** Raiders are expected to attend at least half of all guild raids per month. Raiders actively engaged in non-raiding activities (or raiding elsewhere) *at the expense of guild raids* risk losing their rank.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU1Mjc5OTA0MF19
+eyJoaXN0b3J5IjpbLTc2MjMxNTY4OF19
 -->
