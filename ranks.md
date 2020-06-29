@@ -1,16 +1,49 @@
+
 1.  #### GUILD RANKS
     
 
--   The guild has many ranks. Their purpose and associated privileges and duties are described below.
+The guild has many ranks. Their purpose and associated privileges and duties are described below.
 
-1.  **Guild Master and Officer**  - Guild leadership. Specific duties include (but are not limited to) management of guild membership, recruitment, relations with other guilds, revision of guild rules, guild infrastructure (forums, website, mumble), guild bank. Eligible to attend all raids if raid-active.
-2.  **Raid Leader**  - Responsible for leading guild raids, developing raid strategy, raid scheduling. Eligible to attend all raids.
+1.  **Guild Master and Officer**  - Guild leadership. Specific duties include (but are not limited to) management of guild membership, recruitment, relations with other guilds, revision of guild rules, guild infrastructure (forums, website, discord), guild bank. Eligible to attend all raids if raid-active.
+2.  **Core Leader**  - Responsible for leading guild raids, developing raid strategy, raid scheduling. Eligible to attend all raids.
 3.  **Raider**  - Active raiding members. Main toons only. Eligible to attend all raids.
 4.  **"Numpty"**  - In-game rank only reserved for Raiders who do something particularly stupid during a raid. All other guild members are invited to point and laugh.
 5.  **Trialist**  - Prospective Raider under evaluation. Eligible to attend all raids.
 6.  **Backup Raider**  - Well-geared and experienced alts, gearing-up raiders, raiders who cannot commit to regular raiding schedule. Eligible to sign up to all raids, but full Raiders take precedence for raid spots.
 7.  **Social**  - Non-raiding members. Eligible to sign up to all raids if appropriately geared, but full Raiders take precedence for raid spots.
 8.  **Alt**  - All other alt characters. Typically too insufficiently geared or experienced to raid.
+
+3.  #### PROMOTION
+    
+
+-   Players of rank 'Social' (or an 'Alt' of a current 'Radier') and 'Backup Raider' can apply for promotion to the ranks of 'Backup Raider' and 'Raider' respectively if they are wish to participate in regular raiding activities.
+-   **Promotion from Social or Alt to Backup Raider**
+    1.  For promotion to 'Backup Raider', a player should:
+        -   meet and maintain the current gear requirements for Raiders as listed at the top of the  [Guild Recruitment](https://www.wow-easy.net/index.php?page=recruit)  page
+        -   pass a basic skill check as demonstrated by a log of an appropriate LFR raid, Mythic dungeon, or similar.
+        -   apply for the promotion, the player should complete the Backup Raider Promotion application form to show evidence of the above and post it in the Internal Promotions forum.
+-   **Promotion from Backup Raider to Raider**
+    1.  For promotion to 'Raider' and if a Raider spot is available in the appropriate role, then a Backup Raider should:
+        -   meet and maintain the current gear requirements for Raiders as listed at the top of the  [Guild Recruitment](https://www.wow-easy.net/index.php?page=recruit)  page
+        -   apply for the promotion, the player should complete the Raider Promotion application form to show evidence of the above and post it in the Internal Promotions forum.
+    2.  If the player does not have recent raiding experience, then a test run will be arranged. If successful or not needed, then the player will be promoted to Trialist rank.
+    3.  There will then be the usual 2-week trial and evaluation period following the standard rules and procedure. See  [Recruitment and Trial](https://www.wow-easy.net/index.php?page=rules&section=recruit)  for details.
+    4.  The Backup Raider does not have to meet the minimum raid Activity (50%) before making the application, but must demonstrate it throughout the Trial period.
+    5.  If the player is new to raiding, new to raiding with us, or new to the role, then an appropriate class or role 'big brother' or mentor will be appointed.
+-   On success, the player will be promoted to the desired rank. Otherwise, the player remains at their original rank and can re-apply at a later time.
+-   Promotion to higher ranks is at the discretion of the Guild Master only.
+
+5.  #### DEMOTION
+    
+
+-   Players who no longer meet the requirements and expectations of their current rank will be demoted.
+-   Backup Raiders who no longer meet the minimum gear requirements of the rank will be demoted to Social.
+
+-   Raiders who no longer meet the minimum gear, performance, or raiding activity requirements of the rank will be demoted to Backup Raider.
+
+7.  #### MAIN CHANGE
+    
+Raiders wishing to change their main raiding toon should also follow the process above by first preparing their alt as a Backup Raider and applying for full Raider status when appropriate.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDYyNzk2NzgwXX0=
+eyJoaXN0b3J5IjpbMjg5MTY5MzQ3XX0=
 -->
