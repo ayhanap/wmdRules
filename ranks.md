@@ -37,7 +37,7 @@ The guild has many ranks. Their purpose and associated privileges and duties are
 
 #### MAIN CHANGE
     
-Changing mains are only allowed if the management requests fromRaiders wishing to change their main raiding toon should also follow the process above by first preparing their alt as a Backup Raider and applying for full Raider status when appropriate.
+Changing mains are only allowed if the management requests. From a heavily occupied class to starved class. Any other request will not even Raiders wishing to change their main raiding toon should also follow the process above by first preparing their alt as a Backup Raider and applying for full Raider status when appropriate.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI3NTA3OTM2LDEyNTQzODk2MjFdfQ==
+eyJoaXN0b3J5IjpbMTMzMzg5ODMxOSwxMjU0Mzg5NjIxXX0=
 -->
