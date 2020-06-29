@@ -35,9 +35,9 @@ The guild has many ranks. Their purpose and associated privileges and duties are
 - Core Raiders who no longer meet the minimum gear, performance or raiding activity requirements will be demoted to Social.
 - Raiders who no longer meet the minimum gear, performance or raiding activity requirements will be demoted to Social.
 
-7.  #### MAIN CHANGE
+#### MAIN CHANGE
     
-Raiders wishing to change their main raiding toon should also follow the process above by first preparing their alt as a Backup Raider and applying for full Raider status when appropriate.
+Changing mains are only allowed if the Raiders wishing to change their main raiding toon should also follow the process above by first preparing their alt as a Backup Raider and applying for full Raider status when appropriate.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwODgzNjEyNywxMjU0Mzg5NjIxXX0=
+eyJoaXN0b3J5IjpbMjg2MDEwNjY1LDEyNTQzODk2MjFdfQ==
 -->
