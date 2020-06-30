@@ -18,7 +18,8 @@
 - **Loot Counciled Items**
 	- Tanks doesnt spend DKP so their loot is loot counciled. 
 	- Any loot affecting other classes is listed on the priotization tables or seperately announced on discord.
-	- Its other classes duty to follow these prioritazations. Gui
+	- Its other classes duty to follow these prioritazations. Loot Master is not responsible for any inconvenience people might have.
+	- Some items are also put on a rotation table. Like two of them being
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM2NjA0NzQ2OSwtNTU5Njk2MzAwXX0=
+eyJoaXN0b3J5IjpbNDk2MDI1NjAyLC01NTk2OTYzMDBdfQ==
 -->
