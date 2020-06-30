@@ -1,5 +1,6 @@
  #### Loot Distribution
  - Loot is distributed with DKP
+ - Socials and Alts does not earn nor can spend DKP.
  - Monolith DKP used for bidding. Everyone needs to have addon installed.
  - Bidding period is started with loot master opening items for loot. Highest bidder awarded item for the cost of second highest bid or minumum bid.
  - If Loot Master sees a reason to repeat the bidding he might repeat bidding. (ie. someone disconnecting at the bidding session)
@@ -23,5 +24,5 @@
 	- Legendaries are loot counciled.
 	- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE5MTEyNjE5MCwtNTU5Njk2MzAwXX0=
+eyJoaXN0b3J5IjpbLTE5MzQyODExMjYsLTU1OTY5NjMwMF19
 -->
