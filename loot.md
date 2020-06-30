@@ -8,8 +8,10 @@
  - Items cannot be obtained as MS without paying minimum DKP price.
  - If a player doesnt have the minimum DKP for the Item although he is the only one needing item for MS, he is deducted all the remaining DKP he has.
  #### Loot Prioritization
- - Loot Prio among the ranksis the following
+ - Loot Prio among the ranks are the following
+	 - Core Raider = Raider > Social = Alt
+ - Ever
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMTkyMjkzNzQsLTU1OTY5NjMwMF19
+eyJoaXN0b3J5IjpbMTM4OTk2NDY3NSwtNTU5Njk2MzAwXX0=
 -->
