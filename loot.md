@@ -5,8 +5,10 @@
  - If Loot Master sees a reason to repeat the bidding he might repeat bidding. (ie. someone disconnecting at the bidding session)
  - Each item has a minimum price that is posted on either guild website or discord.
  - Item may be opened to roll for OS if no one needs the item.
- - Items cannot be obtained as MS without paying minimum d
+ - Items cannot be obtained as MS without paying minimum DKP price.
+ - If a player doesnt have the minimum DKP for the Item although he is the only one needing item for MS, he is deducted all the remaining DKP he has.
+ - 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNDYxMDU0ODMsLTU1OTY5NjMwMF19
+eyJoaXN0b3J5IjpbLTI1MDA2MTkzMSwtNTU5Njk2MzAwXX0=
 -->
