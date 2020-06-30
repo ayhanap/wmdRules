@@ -12,8 +12,9 @@
 	 - Core Raider = Raider > Social = Alt
  - **Loot Prio among Classes**
 	 - Guild website or Discord will have links to tables listing priotization for each item.
-	 - This priotization is determined wit
-
+	 - This prioritization is determined with management with the input of class leaders.
+	 - Usually this prioritization is to favor overall guild performance.
+	 - Usually there is a better alternative for an item if any class is not the top prio
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ2NzI0MzYxNywtNTU5Njk2MzAwXX0=
+eyJoaXN0b3J5IjpbMjEwOTQ1NjI4MiwtNTU5Njk2MzAwXX0=
 -->
