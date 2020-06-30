@@ -1,3 +1,5 @@
+ #### DKP
+- 
  #### Loot Distribution
  - Loot is distributed with DKP
  - Monolith DKP used for bidding. Everyone needs to have addon installed.
@@ -8,8 +10,8 @@
  - Items cannot be obtained as MS without paying minimum DKP price.
  - If a player doesnt have the minimum DKP for the Item although he is the only one needing item for MS, he is deducted all the remaining DKP he has.
 - **Socials and Alts**
-	- Socials and Alts does not earn nor can spend DKP.
-	 - Alts can earn dkp to mains only if they requested to come as alts to maintain raid balance by raid leader.
+	- Socials and Alts does can not earn nor spend DKP.
+	- Alts can earn dkp for mains only if they requested to come as alts to maintain raid balance by raid leader.
  #### Loot Prioritization
 - **Loot Prio by Ranks**
 	 - Core Raider = Raider > Social = Alt
@@ -26,6 +28,6 @@
 	- Legendaries are loot counciled.
 	- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMjcwNTU2NDUsLTEzNjg3NDk5NTMsLT
-U1OTY5NjMwMF19
+eyJoaXN0b3J5IjpbMTUwNzcwNDA1MywtMTM2ODc0OTk1MywtNT
+U5Njk2MzAwXX0=
 -->
