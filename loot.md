@@ -21,9 +21,10 @@
 	- Tanks doesnt spend DKP so their loot is loot counciled. 
 	- Any loot affecting other classes is listed on the priotization tables or seperately announced on discord.
 	- It's members of other classes' duty to follow these prioritazations. Loot Master is not responsible for any inconvenience people might have.
-	- Some items are also put on a rotation table. Having rotating between amongst tanks/dps or other classes. These rotations are also stated on the prioritization tables.
+	- Some items can be put on a rotation prio. Having rotating between amongst tanks/dps or other classes. These rotations are also stated on the prioritization tables.
 	- Legendaries are loot counciled.
 	- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNjg3NDk5NTMsLTU1OTY5NjMwMF19
+eyJoaXN0b3J5IjpbNzQyMjI4NTkzLC0xMzY4NzQ5OTUzLC01NT
+k2OTYzMDBdfQ==
 -->
