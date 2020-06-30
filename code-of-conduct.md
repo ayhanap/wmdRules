@@ -1,5 +1,7 @@
 
-**This is take from another guild, most looks common sense. Although most of these doesn't define much, these can give common sense **
+**This is take from another guild, most looks common sense. Although most of these doesn't define much, these can give common sense and can be used with needed situations like demotions/removals**
+
+
 All members of the guild, regardless of rank, are expected to adhere to this Code of Conduct. This Code of Conduct governs all interactions between guild members and other people, either within the guild or outside. This Code of Conduct applies to all members and all means of communication without exception.
 
 Breaches of the Code of Conduct will result in disciplinary action from the Guild Leadership appropriate to the player's rank and the nature of the breach. Such punishments will include, in increasing order of severity: deduction of SP, deduction of DKP, demotion, expulsion from the guild, and enforced fishing.
@@ -31,5 +33,5 @@ Additionally, all Guild members who are involved in Raiding are expected to adhe
 - **Positive criticism is a good thing.** Members should feel free to give advice and suggestions to other players to improve their play. Equally, Members should view any positive criticism as an opportunity to improve.
 - **The guild's raids and its progress come first.** Raiders are expected to attend at least half of all guild raids per month. Raiders actively engaged in non-raiding activities (or raiding elsewhere) *at the expense of guild raids* risk losing their rank.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMxNTU4Mzc0NSwtNzYyMzE1Njg4XX0=
+eyJoaXN0b3J5IjpbNjEwNjQzOTU3LC03NjIzMTU2ODhdfQ==
 -->
