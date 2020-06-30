@@ -14,7 +14,9 @@
 	 - Guild website or Discord will have links to tables listing priotization for each item.
 	 - This prioritization is determined with management with the input of class leaders.
 	 - Usually this prioritization is to favor overall guild performance.
-	 - Usually there is a better alternative for an item if any class is not the top prio
+	 - Usually there is a better alternative for an item if any class is not the top priority.
+- **Loot Counciled Items**
+	- Tanks doesnt spend DKP so their loot is loot counciled. Any loot affecting
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEwOTQ1NjI4MiwtNTU5Njk2MzAwXX0=
+eyJoaXN0b3J5IjpbLTE0NDU0OTIxMzgsLTU1OTY5NjMwMF19
 -->
