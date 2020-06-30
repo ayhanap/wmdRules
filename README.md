@@ -1,2 +1,0 @@
-# wmdRules
-WMD Rules
