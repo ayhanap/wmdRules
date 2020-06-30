@@ -13,6 +13,7 @@
 	- Socials and Alts does can not earn nor spend DKP.
 	- Alts can earn dkp for mains only if they requested to come as alts to maintain raid balance by raid leader.
 - **20-Man Raids**
+	- 20-Man raids do not reward DKP.
 	- These rules are applied only on raids that consist only guild members.
 	- Its not encouraged to take pugs into guild raids unless there is a high need.
 	- Loot is distributed with group loot.
@@ -34,6 +35,6 @@
 	- Legendaries are loot counciled.
 	- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAzNDQxMjMxNSwtMTM2ODc0OTk1MywtNT
+eyJoaXN0b3J5IjpbLTgyNDUzMjMxMCwtMTM2ODc0OTk1MywtNT
 U5Njk2MzAwXX0=
 -->
