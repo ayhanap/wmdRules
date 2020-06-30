@@ -16,7 +16,9 @@
 	 - Usually this prioritization is to favor overall guild performance.
 	 - Usually there is a better alternative for an item if any class is not the top priority.
 - **Loot Counciled Items**
-	- Tanks doesnt spend DKP so their loot is loot counciled. Any loot affecting
+	- Tanks doesnt spend DKP so their loot is loot counciled. 
+	- Any loot affecting other classes is listed on the priotization tables or seperately announced on discord.
+	- Its other classes duty to follow these prioritazations. Gui
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NDU0OTIxMzgsLTU1OTY5NjMwMF19
+eyJoaXN0b3J5IjpbMTM2NjA0NzQ2OSwtNTU5Njk2MzAwXX0=
 -->
