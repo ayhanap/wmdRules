@@ -10,8 +10,10 @@
  #### Loot Prioritization
 - **Loot Prio by Ranks**
 	 - Core Raider = Raider > Social = Alt
- - Items may have predifined prio
+ - **Loot Prio among Classes**
+	 - Guild website or Discord will have links to tables listing priotization for each item.
+	 - This priotization is determined wit
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk2MzgwMzAyNiwtNTU5Njk2MzAwXX0=
+eyJoaXN0b3J5IjpbMTQ2NzI0MzYxNywtNTU5Njk2MzAwXX0=
 -->
