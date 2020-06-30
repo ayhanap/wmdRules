@@ -7,8 +7,9 @@
  - Item may be opened to roll for OS if no one needs the item.
  - Items cannot be obtained as MS without paying minimum DKP price.
  - If a player doesnt have the minimum DKP for the Item although he is the only one needing item for MS, he is deducted all the remaining DKP he has.
- - 
+ #### Loot Prioritization
+ - Loot Prio among the ranksis the following
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI1MDA2MTkzMSwtNTU5Njk2MzAwXX0=
+eyJoaXN0b3J5IjpbLTExMTkyMjkzNzQsLTU1OTY5NjMwMF19
 -->
