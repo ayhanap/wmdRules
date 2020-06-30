@@ -17,7 +17,7 @@
 	- Its not encouraged to take pugs into guild raids unless there is a high need.
 	- Loot is distributed with group loot.
 	- Loot priotization for ranks also apply in 20-Man raids.
-	- Socials and Alts can greed item and 
+	- Socials and Alts can greed item and then ask in raid chat. If everyone greeds the item, specified item can be traded to social or alt. If there is more than one social or alt they roll for the item.
  #### Loot Prioritization
 - **Loot Prio by Ranks**
 	 - Core Raider = Raider > Social = Alt
@@ -34,6 +34,6 @@
 	- Legendaries are loot counciled.
 	- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMDQ3OTMzMjAsLTEzNjg3NDk5NTMsLT
-U1OTY5NjMwMF19
+eyJoaXN0b3J5IjpbMjAzNDQxMjMxNSwtMTM2ODc0OTk1MywtNT
+U5Njk2MzAwXX0=
 -->
